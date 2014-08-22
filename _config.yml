@@ -1,0 +1,6 @@
+# Site settings
+title: aaronswensen.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
