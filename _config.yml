@@ -4,3 +4,5 @@ title: aaronswensen.com
 # Build settings
 markdown: kramdown
 permalink: pretty
+tag_title_prefix: ""
+tag_title_suffix: ""
